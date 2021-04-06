@@ -1,0 +1,166 @@
+{
+	"resource": [
+		{
+			"code": "A10",
+			"resourceType": "COUNTER",
+			"externalName": "A10",
+			"area": "T1"
+		},
+		{
+			"code": "A11",
+			"resourceType": "COUNTER",
+			"externalName": "A11",
+			"area": "T1"
+		},
+		{
+			"code": "A12",
+			"resourceType": "COUNTER",
+			"externalName": "A12",
+			"area": "T1"
+		},
+		{
+			"code": "A13",
+			"resourceType": "COUNTER",
+			"externalName": "A13",
+			"area": "T1"
+		},
+		{
+			"code": "A14",
+			"resourceType": "COUNTER",
+			"externalName": "A14",
+			"area": "T1"
+		},
+		{
+			"code": "A15",
+			"resourceType": "COUNTER",
+			"externalName": "A15",
+			"area": "T1"
+		},
+		{
+			"code": "A16",
+			"resourceType": "COUNTER",
+			"externalName": "A16",
+			"area": "T1"
+		},
+		{
+			"code": "A17",
+			"resourceType": "COUNTER",
+			"externalName": "A17",
+			"area": "T1"
+		},
+		{
+			"code": "A18",
+			"resourceType": "COUNTER",
+			"externalName": "A18",
+			"area": "T1"
+		},
+		{
+			"code": "B10",
+			"resourceType": "COUNTER",
+			"externalName": "B10",
+			"area": "T1"
+		},
+		{
+			"code": "B11",
+			"resourceType": "COUNTER",
+			"externalName": "B11",
+			"area": "T1"
+		},
+		{
+			"code": "B12",
+			"resourceType": "COUNTER",
+			"externalName": "B12",
+			"area": "T1"
+		},
+		{
+			"code": "B13",
+			"resourceType": "COUNTER",
+			"externalName": "B13",
+			"area": "T1"
+		},
+		{
+			"code": "B14",
+			"resourceType": "COUNTER",
+			"externalName": "B14",
+			"area": "T1"
+		},
+		{
+			"code": "B15",
+			"resourceType": "COUNTER",
+			"externalName": "B15",
+			"area": "T1"
+		},
+		{
+			"code": "B16",
+			"resourceType": "COUNTER",
+			"externalName": "B16",
+			"area": "T1"
+		},
+		{
+			"code": "B17",
+			"resourceType": "COUNTER",
+			"externalName": "B17",
+			"area": "T1"
+		},
+		{
+			"code": "B18",
+			"resourceType": "COUNTER",
+			"externalName": "B18",
+			"area": "T1"
+		},
+		{
+			"code": "C10",
+			"resourceType": "COUNTER",
+			"externalName": "C10",
+			"area": "T1"
+		},
+		{
+			"code": "C11",
+			"resourceType": "COUNTER",
+			"externalName": "C11",
+			"area": "T1"
+		},
+		{
+			"code": "C12",
+			"resourceType": "COUNTER",
+			"externalName": "C12",
+			"area": "T1"
+		},
+		{
+			"code": "C13",
+			"resourceType": "COUNTER",
+			"externalName": "C13",
+			"area": "T1"
+		},
+		{
+			"code": "C14",
+			"resourceType": "COUNTER",
+			"externalName": "C14",
+			"area": "T1"
+		},
+		{
+			"code": "C15",
+			"resourceType": "COUNTER",
+			"externalName": "C15",
+			"area": "T1"
+		},
+		{
+			"code": "C16",
+			"resourceType": "COUNTER",
+			"externalName": "C16",
+			"area": "T1"
+		},
+		{
+			"code": "C17",
+			"resourceType": "COUNTER",
+			"externalName": "C17",
+			"area": "T1"
+		},
+		{
+			"code": "C18",
+			"resourceType": "COUNTER",
+			"externalName": "C18",
+			"area": "T1"
+		}
+	]
+}
